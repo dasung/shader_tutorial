@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\dasun\Downloads\ogl-master\tutorial18_billboards_and_particles\tutorial18_billboards.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dasun\Downloads\ogl-master\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dasun\Downloads\ogl-master\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\dasun\Downloads\ogl-master\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\dasun\Downloads\ogl-master\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dasun\Downloads\ogl-master\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\dasun\Downloads\ogl-master\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dasun\Downloads\ogl-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\dasun\Downloads\ogl-master\tutorial18_billboards_and_particles\Billboard.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\dasun\Downloads\ogl-master\tutorial18_billboards_and_particles\Billboard.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F31983EC-7B22-3597-B6EC-AAD60D04A1A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{01F33145-112B-3621-9077-E0DBDAF7A548}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{9C17BB52-75DE-363C-9E7E-55C9467A30DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
